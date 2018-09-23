@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5411023b-f818-4509-a110-c5cdecad069c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Standard.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="253" column="37" lean-forward="true" selection-start-line="253" selection-start-column="37" selection-end-line="253" selection-end-column="37" />
+              <folding>
+                <marker date="1536716320000" expanded="true" signature="121:11945" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="142:1782" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="1797:1855" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="1880:7853" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="1975:2120" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="2142:3411" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="2314:3396" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="3420:3544" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="3566:4786" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="3829:4771" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="4795:4898" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="4912:5791" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="5054:5776" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="5800:5895" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="5917:7066" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="6015:7051" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="7076:7281" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="7303:7847" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="7413:7832" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="7873:11879" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="7967:8112" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="8134:9205" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="8306:9190" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="9214:9338" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="9360:10388" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="9623:10373" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="10397:10500" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="10514:11092" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="10656:11077" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="11102:11307" ph="/* ------------------------------------------------------------------ ... */" />
+                <marker date="1536716320000" expanded="true" signature="11329:11873" ph="{...}" />
+                <marker date="1536716320000" expanded="true" signature="11439:11858" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Standard.shader" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Standard.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
+    <option name="y" value="-120" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ShaderWorkSpace" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5411023b-f818-4509-a110-c5cdecad069c" name="Default" comment="" />
+      <created>1537536472238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537536472238</updated>
+      <workItem from="1537536473629" duration="1160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1160000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-157" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="LuaCheck" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Standard.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="253" column="37" lean-forward="true" selection-start-line="253" selection-start-column="37" selection-end-line="253" selection-end-column="37" />
+          <folding>
+            <marker date="1536716320000" expanded="true" signature="121:11945" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="142:1782" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="1797:1855" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="1880:7853" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="1975:2120" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="2142:3411" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="2314:3396" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="3420:3544" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="3566:4786" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="3829:4771" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="4795:4898" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="4912:5791" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="5054:5776" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="5800:5895" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="5917:7066" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="6015:7051" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="7076:7281" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="7303:7847" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="7413:7832" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="7873:11879" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="7967:8112" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="8134:9205" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="8306:9190" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="9214:9338" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="9360:10388" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="9623:10373" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="10397:10500" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="10514:11092" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="10656:11077" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="11102:11307" ph="/* ------------------------------------------------------------------ ... */" />
+            <marker date="1536716320000" expanded="true" signature="11329:11873" ph="{...}" />
+            <marker date="1536716320000" expanded="true" signature="11439:11858" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
